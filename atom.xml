@@ -5,9 +5,9 @@
   <subtitle>huadongxu</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://huadongxu.club/"/>
+  <link href="http://blog.huadongxu.club/"/>
   <updated>2019-09-28T08:17:17.549Z</updated>
-  <id>http://huadongxu.club/</id>
+  <id>http://blog.huadongxu.club/</id>
   
   <author>
     <name>华东旭</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>SpringApplication</title>
-    <link href="http://huadongxu.club/2019/09/28/springapplication/"/>
-    <id>http://huadongxu.club/2019/09/28/springapplication/</id>
+    <link href="http://blog.huadongxu.club/2019/09/28/springapplication/"/>
+    <id>http://blog.huadongxu.club/2019/09/28/springapplication/</id>
     <published>2019-09-28T08:08:25.000Z</published>
     <updated>2019-09-28T08:17:17.549Z</updated>
     
@@ -27,17 +27,17 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://huadongxu.club/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://blog.huadongxu.club/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="随笔" scheme="http://huadongxu.club/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://blog.huadongxu.club/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>二零一七年终总结</title>
-    <link href="http://huadongxu.club/2018/01/22/2017-conclusion/"/>
-    <id>http://huadongxu.club/2018/01/22/2017-conclusion/</id>
+    <link href="http://blog.huadongxu.club/2018/01/22/2017-conclusion/"/>
+    <id>http://blog.huadongxu.club/2018/01/22/2017-conclusion/</id>
     <published>2018-01-22T04:32:09.000Z</published>
     <updated>2019-09-28T06:55:21.138Z</updated>
     
@@ -53,10 +53,10 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://huadongxu.club/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://blog.huadongxu.club/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="随笔" scheme="http://huadongxu.club/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://blog.huadongxu.club/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
