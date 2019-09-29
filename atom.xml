@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.huadongxu.club/"/>
-  <updated>2019-09-29T15:42:33.222Z</updated>
+  <updated>2019-09-29T16:18:29.814Z</updated>
   <id>http://blog.huadongxu.club/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.huadongxu.club/2019/09/28/springapplication/"/>
     <id>http://blog.huadongxu.club/2019/09/28/springapplication/</id>
     <published>2019-09-28T08:08:25.000Z</published>
-    <updated>2019-09-29T15:42:33.222Z</updated>
+    <updated>2019-09-29T16:18:29.814Z</updated>
     
     <summary type="html">
     
@@ -35,7 +35,7 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://blog.huadongxu.club/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="springCloud" scheme="http://blog.huadongxu.club/categories/springCloud/"/>
     
     
       <category term="随笔" scheme="http://blog.huadongxu.club/tags/%E9%9A%8F%E7%AC%94/"/>
