@@ -327,7 +327,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 <li><strong>名称：</strong>huaxiang</li>
 <li><strong>地址：</strong><a href="https://huadongxu.club" target="_blank" rel="noopener">https://huadongxu.club</a></li>
 <li><strong>简介：</strong>ECNU NLPer</li>
-<li><strong>头像：</strong><a href="https://godweiyang.com/medias/avatars/avatar.jpg" target="_blank" rel="noopener">https://godweiyang.com/medias/avatars/avatar.jpg</a></li>
+<li><strong>头像：</strong><a href="https://blog.huadongxu.club/medias/avatars/avatar.jpg">https://blog.huadongxu.club/medias/avatars/avatar.jpg</a></li>
 </ul>
 
                     </div>
@@ -750,7 +750,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         var diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
         var diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) / minutes);
         var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours - diffMinutes * minutes) / seconds);
-        document.getElementById("sitetime").innerHTML = "本站已运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒";
+        /* document.getElementById("sitetime").innerHTML = "本站已运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒"; */
     }/*因为建站时间还没有一年，就将之注释掉了。需要的可以取消*/
     siteTime();
 </script>

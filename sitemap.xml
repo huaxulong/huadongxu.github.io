@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.huadongxu.club/contact/index.html</loc>
+    
+    <lastmod>2019-09-30T06:06:23.952Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.huadongxu.club/friends/index.html</loc>
     
     <lastmod>2019-09-30T01:22:32.880Z</lastmod>
@@ -23,13 +30,6 @@
   </url>
   
   <url>
-    <loc>http://blog.huadongxu.club/contact/index.html</loc>
-    
-    <lastmod>2019-09-29T15:57:18.739Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.huadongxu.club/tags/index.html</loc>
     
     <lastmod>2019-09-28T06:55:21.146Z</lastmod>
@@ -37,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://blog.huadongxu.club/archives/index.html</loc>
+    <loc>http://blog.huadongxu.club/categories/index.html</loc>
     
     <lastmod>2019-09-28T06:55:21.144Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.huadongxu.club/categories/index.html</loc>
+    <loc>http://blog.huadongxu.club/archives/index.html</loc>
     
     <lastmod>2019-09-28T06:55:21.144Z</lastmod>
     
