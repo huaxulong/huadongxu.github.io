@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.huadongxu.club/"/>
-  <updated>2019-10-09T03:32:18.098Z</updated>
+  <updated>2019-10-17T09:46:15.507Z</updated>
   <id>http://blog.huadongxu.club/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>NIO应用</title>
+    <link href="http://blog.huadongxu.club/2019/10/17/nio-ying-yong/"/>
+    <id>http://blog.huadongxu.club/2019/10/17/nio-ying-yong/</id>
+    <published>2019-10-17T09:37:58.000Z</published>
+    <updated>2019-10-17T09:46:15.507Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;一、NIO-的核心概念&quot;&gt;&lt;a href=&quot;#一、NIO-的核心概念&quot; class=&quot;headerlink&quot; title=&quot;一、NIO 的核心概念&quot;&gt;&lt;/a&gt;一、NIO 的核心概念&lt;/h3&gt;&lt;p&gt;NIO核心API Channel, Buffer,
+        
+      
+    
+    </summary>
+    
+      <category term="计划" scheme="http://blog.huadongxu.club/categories/%E8%AE%A1%E5%88%92/"/>
+    
+    
+      <category term="最近学习计划" scheme="http://blog.huadongxu.club/tags/%E6%9C%80%E8%BF%91%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
   
   <entry>
     <title>plan</title>
