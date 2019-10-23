@@ -1,10 +1,6 @@
 http://blog.huadongxu.club/2019/10/23/shu-ju-jie-gou-he-suan-fa/
 http://blog.huadongxu.club/2019/10/23/springcloud/
 http://blog.huadongxu.club/2019/10/23/spring/
-http://blog.huadongxu.club/2019/10/23/zhi-xin/
-http://blog.huadongxu.club/2019/10/23/wen-gu-zhi-xin/
-http://blog.huadongxu.club/2019/10/23/netty/
 http://blog.huadongxu.club/2019/10/23/netty4-ying-yong/
 http://blog.huadongxu.club/2019/10/17/nio-ying-yong/
-http://blog.huadongxu.club/2019/10/09/plan/
 http://blog.huadongxu.club/2019/09/28/springapplication/
