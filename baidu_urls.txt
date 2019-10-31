@@ -1,3 +1,5 @@
+http://blog.huadongxu.club/2019/10/31/netty-fu-wu-duan-yuan-ma-fen-xi/
+http://blog.huadongxu.club/2019/10/27/ji-yu-netty-shi-xian-de-rpc-li-zi/
 http://blog.huadongxu.club/2019/10/23/netty4-ying-yong/
 http://blog.huadongxu.club/2019/10/17/nio-ying-yong/
 http://blog.huadongxu.club/2019/09/28/springapplication/
