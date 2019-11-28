@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.huadongxu.club/2019/11/28/ce-shi-yong-li/</loc>
+    
+    <lastmod>2019-11-28T03:13:02.054Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.huadongxu.club/2019/10/31/netty-fu-wu-duan-yuan-ma-fen-xi/</loc>
     
     <lastmod>2019-10-31T13:00:15.480Z</lastmod>
@@ -65,14 +72,14 @@
   </url>
   
   <url>
-    <loc>http://blog.huadongxu.club/archives/index.html</loc>
+    <loc>http://blog.huadongxu.club/categories/index.html</loc>
     
     <lastmod>2019-09-28T06:55:21.144Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.huadongxu.club/categories/index.html</loc>
+    <loc>http://blog.huadongxu.club/archives/index.html</loc>
     
     <lastmod>2019-09-28T06:55:21.144Z</lastmod>
     
